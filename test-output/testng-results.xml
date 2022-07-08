@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-21T01:51:15 IST" name="Suite" finished-at="2022-06-21T01:51:15 IST" duration-ms="130">
+    <groups>
+      <group name="Flight TranSport">
+        <method signature="Grouptng.indiGo()[pri:-3, instance:com.AdactineMavenProject.Grouptng@79da8dc5]" name="indiGo" class="com.AdactineMavenProject.Grouptng"/>
+        <method signature="Grouptng.jetAirWays()[pri:-2, instance:com.AdactineMavenProject.Grouptng@79da8dc5]" name="jetAirWays" class="com.AdactineMavenProject.Grouptng"/>
+        <method signature="Grouptng.spiceJet()[pri:-4, instance:com.AdactineMavenProject.Grouptng@79da8dc5]" name="spiceJet" class="com.AdactineMavenProject.Grouptng"/>
+        <method signature="Grouptng.vistara()[pri:-1, instance:com.AdactineMavenProject.Grouptng@79da8dc5]" name="vistara" class="com.AdactineMavenProject.Grouptng"/>
+      </group> <!-- Flight TranSport -->
+      <group name="Train TranSport">
+        <method signature="Grouptng.alleppeyExpress()[pri:0, instance:com.AdactineMavenProject.Grouptng@79da8dc5]" name="alleppeyExpress" class="com.AdactineMavenProject.Grouptng"/>
+        <method signature="Grouptng.bangaloreExpress()[pri:0, instance:com.AdactineMavenProject.Grouptng@79da8dc5]" name="bangaloreExpress" class="com.AdactineMavenProject.Grouptng"/>
+        <method signature="Grouptng.chennaiExpress()[pri:0, instance:com.AdactineMavenProject.Grouptng@79da8dc5]" name="chennaiExpress" class="com.AdactineMavenProject.Grouptng"/>
+      </group> <!-- Train TranSport -->
+      <group name="Bus TranSport">
+        <method signature="Grouptng.ksrtc()[pri:0, instance:com.AdactineMavenProject.Grouptng@79da8dc5]" name="ksrtc" class="com.AdactineMavenProject.Grouptng"/>
+        <method signature="Grouptng.setc()[pri:0, instance:com.AdactineMavenProject.Grouptng@79da8dc5]" name="setc" class="com.AdactineMavenProject.Grouptng"/>
+      </group> <!-- Bus TranSport -->
+    </groups>
+    <test started-at="2022-06-21T01:51:15 IST" name="Test" finished-at="2022-06-21T01:51:15 IST" duration-ms="130">
+      <class name="com.AdactineMavenProject.Grouptng">
+        <test-method signature="spiceJet()[pri:-4, instance:com.AdactineMavenProject.Grouptng@79da8dc5]" started-at="2022-06-21T01:51:15 IST" name="spiceJet" finished-at="2022-06-21T01:51:15 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- spiceJet -->
+        <test-method signature="indiGo()[pri:-3, instance:com.AdactineMavenProject.Grouptng@79da8dc5]" started-at="2022-06-21T01:51:15 IST" name="indiGo" finished-at="2022-06-21T01:51:15 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- indiGo -->
+        <test-method signature="jetAirWays()[pri:-2, instance:com.AdactineMavenProject.Grouptng@79da8dc5]" started-at="2022-06-21T01:51:15 IST" name="jetAirWays" finished-at="2022-06-21T01:51:15 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jetAirWays -->
+        <test-method signature="vistara()[pri:-1, instance:com.AdactineMavenProject.Grouptng@79da8dc5]" started-at="2022-06-21T01:51:15 IST" name="vistara" finished-at="2022-06-21T01:51:15 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vistara -->
+        <test-method signature="alleppeyExpress()[pri:0, instance:com.AdactineMavenProject.Grouptng@79da8dc5]" started-at="2022-06-21T01:51:15 IST" name="alleppeyExpress" finished-at="2022-06-21T01:51:15 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alleppeyExpress -->
+        <test-method signature="bangaloreExpress()[pri:0, instance:com.AdactineMavenProject.Grouptng@79da8dc5]" started-at="2022-06-21T01:51:15 IST" name="bangaloreExpress" finished-at="2022-06-21T01:51:15 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bangaloreExpress -->
+        <test-method signature="chennaiExpress()[pri:0, instance:com.AdactineMavenProject.Grouptng@79da8dc5]" started-at="2022-06-21T01:51:15 IST" name="chennaiExpress" finished-at="2022-06-21T01:51:15 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chennaiExpress -->
+        <test-method signature="ksrtc()[pri:0, instance:com.AdactineMavenProject.Grouptng@79da8dc5]" started-at="2022-06-21T01:51:15 IST" name="ksrtc" finished-at="2022-06-21T01:51:15 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ksrtc -->
+        <test-method signature="setc()[pri:0, instance:com.AdactineMavenProject.Grouptng@79da8dc5]" started-at="2022-06-21T01:51:15 IST" name="setc" finished-at="2022-06-21T01:51:15 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setc -->
+      </class> <!-- com.AdactineMavenProject.Grouptng -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
